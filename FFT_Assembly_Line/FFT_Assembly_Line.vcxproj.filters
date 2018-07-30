@@ -44,8 +44,5 @@
     <ClInclude Include="concurrent_queue.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="thread_safe_queue.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
